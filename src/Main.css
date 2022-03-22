@@ -1,0 +1,494 @@
+/* section1 starts here************* */
+@media (min-width: 320px) {
+  .diva11 {
+    background-color: #7c1fbf;
+    padding-left: 20px;
+    color: white;
+    text-align: left;
+    padding-bottom: 50px;
+  }
+
+  .btnn {
+    color: blueviolet;
+    background-color: white;
+    border-radius: 3px 2px;
+    padding: 5px 30px;
+    width: 149px;
+
+    border: none;
+    margin-bottom: 10px;
+  }
+  .play img {
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  /* section1 ends here************* */
+
+  /* section2 starts here************* */
+  .date {
+    border: 1px solid;
+    text-align: center;
+    width: 100%;
+  }
+  /* section2 ends here************* */
+
+  /* section3 starts here************* */
+  .section3 {
+    background-color: #f2f2f2;
+  }
+  .easy {
+    background-color: white;
+    border: none;
+    padding: 30px;
+    margin: 20px 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 7px rgb(238, 236, 236);
+  }
+  .easy img {
+    width: 100%;
+    padding: 30px;
+  }
+  .easy h2 {
+    padding-bottom: 10px;
+  }
+  .but {
+    color: black;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    margin-bottom: 45px;
+    margin-top: 30px;
+  }
+  .why {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px;
+  }
+  /* section3 ends here************* */
+
+  /* section4 starts here************* */
+  .section4 {
+    background-color: #f2f2f2;
+  }
+  .ima {
+    width: 100%;
+  }
+  .buyy {
+    padding: 10px;
+  }
+  .crate {
+    padding: 20px;
+  }
+  .deposit {
+    padding: 20px;
+  }
+  .crypto {
+    padding: 20px;
+  }
+  .pp {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 1px;
+    box-shadow: 2px 2px rgb(189, 180, 180);
+    padding: 10px;
+    height: 40px;
+    margin-right: 20px;
+    display: none;
+  }
+  .depo {
+    margin-top: 35px;
+  }
+
+  /* section4 ends here************* */
+
+  /* section5 starts here************* */
+  .started {
+    color: white;
+    background-color: blueviolet;
+    border-radius: 3px 2px;
+    width: 200px;
+    height: 40px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .apple {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .dave {
+    background-color: blueviolet;
+    margin-bottom: 30px;
+    margin-top: 20px;
+  }
+  .create {
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .ready {
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .oo {
+    margin-right: 10px;
+  }
+  /* section5 ends here************* */
+
+  /* section6 starts here************* */
+
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 90px;
+    bottom: 100px;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 90px;
+    bottom: 70px;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 90px;
+    bottom: 100px;
+  }
+  .call {
+    background-color: #f2f2f2;
+  }
+
+  .ref {
+    display: block;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 100%;
+  }
+  .blue {
+    width: 90%;
+  }
+  .buju {
+    position: relative;
+    bottom: 140px;
+    color: white;
+    width: 80%;
+    margin: auto;
+  }
+  .customer {
+    margin-bottom: 25px;
+  }
+  /* section6 ends here************* */
+}
+
+@media (min-width: 375px) {
+  .btnn {
+    color: blueviolet;
+    background-color: white;
+    border-radius: 3px 2px;
+    padding: 5px 30px;
+    width: 310px;
+    border: none;
+    margin-bottom: 10px;
+  }
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 125px;
+    bottom: 90px;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 120px;
+    bottom: 65px;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 120px;
+    bottom: 77px;
+  }
+
+  .ref {
+    display: block;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 100%;
+  }
+  .blue {
+    width: 100%;
+  }
+  .buju {
+    position: relative;
+    bottom: 150px;
+    color: white;
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media (min-width: 420px) {
+  .btnn {
+    color: blueviolet;
+    background-color: white;
+    border-radius: 3px 2px;
+    padding: 5px 30px;
+    width: 310px;
+    border: none;
+    margin-bottom: 10px;
+  }
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 135px;
+    bottom: 80px;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 133px;
+    bottom: 50px;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 132px;
+    bottom: 77px;
+  }
+
+  .ref {
+    display: block;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 100%;
+  }
+  .blue {
+    width: 100%;
+  }
+  .buju {
+    position: relative;
+    bottom: 170px;
+    color: white;
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media (min-width: 480px) {
+}
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+  .flat {
+    display: flex;
+  }
+  .images {
+    width: 200px;
+  }
+  .btnn {
+    width: 310px;
+  }
+  .name {
+    display: flex;
+    font-size: small;
+    width: 100%;
+  }
+  .pp {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 1px;
+    box-shadow: 2px 2px rgb(189, 180, 180);
+    padding: 10px;
+    height: 40px;
+    margin-right: 20px;
+    display: block;
+  }
+
+  .cd {
+    display: flex;
+    gap: 11%;
+  }
+  .free {
+    display: flex;
+  }
+
+  .choose {
+    display: flex;
+  }
+  .btnnn {
+    display: flex;
+  }
+  .free h2 {
+    text-align: left;
+  }
+  .free p {
+    text-align: left;
+  }
+  .choose h2 {
+    text-align: left;
+  }
+  .choose p {
+    text-align: left;
+  }
+  .btnnn h2 {
+    text-align: left;
+  }
+  .btnnn p {
+    text-align: left;
+  }
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 75px;
+    bottom: 100px;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 80px;
+    bottom: 82px;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 80px;
+    bottom: 100px;
+  }
+
+  .ref {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 100%;
+  }
+  .blue {
+    width: 95%;
+  }
+  .buju {
+    position: relative;
+    bottom: 46%;
+    color: white;
+    width: 75%;
+    line-height: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 98px;
+    bottom: 26%;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 98px;
+    bottom: 13%;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 90px;
+    bottom: 80px;
+  }
+
+  .ref {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 33%;
+  }
+  .blue {
+    width: 90%;
+  }
+  .buju {
+    position: relative;
+    bottom: 40%;
+    color: white;
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media (min-width: 1440px) {
+  .imagee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 135px;
+    bottom: 28%;
+  }
+  .imageee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 130px;
+    bottom: 19%;
+  }
+  .imageeee {
+    width: 20%;
+    border-radius: 100%;
+    position: relative;
+    right: 130px;
+    bottom: 122px;
+  }
+  .ref {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+  }
+  .Sect {
+    width: 33%;
+  }
+  .blue {
+    width: 90%;
+  }
+  .buju {
+    position: relative;
+    bottom: 48%;
+    color: white;
+    width: 80%;
+    margin: auto;
+    font-size: larger;
+    line-height: 40px;
+  }
+}

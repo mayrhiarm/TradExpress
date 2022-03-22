@@ -1,0 +1,164 @@
+/* .btc {
+  width: 60%;
+
+  margin: auto;
+  text-align: left;
+  margin-bottom: 6%;
+}
+.btcc {
+  width: 100%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.buyandsell h2 {
+  margin-top: 8%;
+}
+.nig {
+  width: 20%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-style: solid;
+  height: 40px;
+  font-weight: bold;
+}
+
+.amount {
+  width: 80%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-style: solid;
+  height: 40px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.buyandsell {
+  width: 80%;
+  background-color: #fbf8fd;
+  margin: 10px 40px;
+  padding: 10px;
+  box-shadow: 2px 2px rgb(197, 193, 193);
+}
+.btcc{
+  
+}
+
+.btn {
+  color: white;
+  background-color: blueviolet;
+}
+.optionn {
+  padding-left: 10px;
+}
+
+.links {
+  border: solid;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #e4e4e4;
+  margin-bottom: 5%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+}
+.link {
+  width: 50%;
+  border-radius: 50px;
+  background-color: #e4e4e4;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-style: solid;
+}
+
+.link:hover {
+  background-color: white;
+} */
+
+.buyandsell {
+  margin: 10px 30px;
+  padding: 20px;
+  background-color: #fbf8fd;
+  box-shadow: 2px 2px rgb(197, 193, 193);
+}
+.buyandsell h2 {
+  padding-bottom: 20px;
+}
+.link {
+  width: 50%;
+  border-radius: 50px;
+  background-color: #e4e4e4;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-style: solid;
+}
+.links {
+  border: solid;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #e4e4e4;
+  margin-bottom: 5%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+}
+.link:hover {
+  background-color: white;
+}
+.btc h3 {
+  text-align: left;
+  padding-top: 30px;
+  margin-bottom: 0px;
+}
+.btc input {
+  float: left;
+  background-color: white;
+}
+.nig {
+  width: 20%;
+  background-color: white;
+  border: none;
+  padding: 6px;
+  border-right: 1px solid;
+}
+.amount {
+  width: 80%;
+  background-color: white;
+  border: none;
+  padding: 6px;
+}
+.btc select {
+  width: 100%;
+  background-color: white;
+  padding: 6px;
+  border-radius: 4px;
+  border: none;
+}
+.btc button {
+  width: 100%;
+  background-color: #7c20bf;
+  margin-top: 30px;
+  color: white;
+}
+
+@media (min-width: 480px) {
+  .buyandsell{
+    margin: 10px 60px;
+  }
+}
+@media (min-width: 600px) {
+  .buyandsell{
+    margin: 10px 80px;
+  }
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 1024px) {
+}
+@media (min-width: 1200px) {
+}
+@media (min-width: 1400px) {
+}

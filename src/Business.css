@@ -1,0 +1,57 @@
+.inpw {
+  width: 85%;
+  margin-bottom: 10px;
+}
+.individual {
+  border: solid;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #e4e4e4;
+  margin-bottom: 5%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+}
+.business {
+  width: 50%;
+  border-radius: 50px;
+
+  background-color: #e4e4e4;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-style: solid;
+}
+.business:hover {
+  background-color: white;
+}
+.inpw {
+  width: 80%;
+  border-width: 0.5px;
+  border-color: #e4e4e4;
+  border-radius: 5px;
+  border-style: solid;
+}
+.pop {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 6%;
+  color: white;
+  background-color: blueviolet;
+  border-radius: 4px 3px;
+  border: none;
+}
+.click {
+  text-decoration: none;
+  margin-left: 4%;
+}
+.terms {
+  text-decoration: none;
+}
+.account {
+  display: flex;
+  margin-left: 30%;
+}
+.sign {
+  margin: 0% 10%;
+}

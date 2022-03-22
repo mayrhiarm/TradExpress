@@ -1,0 +1,110 @@
+.input1 {
+  background-color: #ffffff;
+  margin-top: 15px;
+  padding: 5px;
+  width: 95%;
+  padding-left: 25px;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 2px 2px rgb(236, 231, 231);
+  border-radius: 4px;
+}
+.input2 {
+  background-color: #ffffff;
+  margin-top: 15px;
+  width: 95%;
+  padding: 5px;
+  padding-left: 25px;
+  border: none;
+  box-shadow: 2px 2px rgb(236, 231, 231);
+  border-radius: 4px;
+}
+.first {
+  background-color: #fbf8fd;
+  /* border: 1px solid; */
+  margin: 10px 30px;
+  padding: 20px;
+  box-shadow: 2px 2px rgb(197, 193, 193);
+}
+.log {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 4px;
+  padding: 10px;
+  /* margin-right: 20px; */
+  width: 95%;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.pass {
+  display: flex;
+  margin-left: 10%;
+}
+.pass img {
+  width: 15px;
+}
+.pass p {
+  margin-top: 12px;
+}
+
+.word a {
+  text-decoration: none;
+}
+.way {
+  text-decoration: none;
+}
+@media (min-width: 425px) {
+  .pass {
+    display: flex;
+    margin-left: 25%;
+  }
+}
+@media (min-width: 480px) {
+  .rem {
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .pass {
+    display: flex;
+    margin-left: 0px;
+  }
+  .word {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 4%;
+  }
+  .word a {
+    text-decoration: none;
+    margin-top: 15px;
+  }
+  .way {
+    text-decoration: none;
+    margin-left: 10px;
+  }
+
+  .run {
+    display: flex;
+    margin-left: 30%;
+  }
+}
+@media (min-width: 600px) {
+  .run {
+    display: flex;
+    margin-left: 35%;
+  }
+}
+@media (min-width: 768px) {
+  .run {
+    display: flex;
+    margin-left: 40%;
+  }
+}
+@media (min-width: 1024px) {
+}
+@media (min-width: 1200px) {
+}
+@media (min-width: 1366px) {
+}
+@media (min-width: 1440px) {
+}
